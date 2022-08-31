@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltoparlanteGUI", "AltoparlanteGUI.csproj", "{11D055A2-8EB3-4B49-B127-90173B07CCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D055A2-8EB3-4B49-B127-90173B07CCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D055A2-8EB3-4B49-B127-90173B07CCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D055A2-8EB3-4B49-B127-90173B07CCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D055A2-8EB3-4B49-B127-90173B07CCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B82F16C0-A8BC-45AC-9F40-5B1F994D1206}
+	EndGlobalSection
+EndGlobal
